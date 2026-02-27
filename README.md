@@ -1,2 +1,4 @@
-# ad
-三种规格自用广告规则，不一定适合你！
+- 原始条目数：{{RAW_COUNT}}
+- 去重后条目数：{{UNIQUE_COUNT}}
+- 重复条目数：{{DUPLICATE_COUNT}}
+- 最后更新：{{UPDATE_TIME}}
