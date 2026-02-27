@@ -1,9 +1,9 @@
 @@||github.com^
-@@||sdkreport.e.qq.com^$client=''192.168.5.5''
-@@||v2ii.gdt.qq.com^$client=''192.168.5.5''
-@@||log.tbs.qq.com^$client=''192.168.5.5''
-@@||v.gdt.qq.com^$client=''192.168.5.5''
-@@||rpt.gdt.qq.com^$client=''192.168.5.5''
+@@||sdkreport.e.qq.com^$client='192.168.5.5'
+@@||v2ii.gdt.qq.com^$client='192.168.5.5'
+@@||log.tbs.qq.com^$client='192.168.5.5'
+@@||v.gdt.qq.com^$client='192.168.5.5'
+@@||rpt.gdt.qq.com^$client='192.168.5.5'
 @@||*-go.kelkoogroup.net^
 @@||*cdn.exponea.com^
 @@||*tagm.tchibo.de^
