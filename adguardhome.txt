@@ -2,7 +2,7 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-02-28 13:03:08（北京时间）                 #
+#Version: 2026-03-01 13:39:12（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
 #Total count: 4954                                                #
 ##############################################################################
