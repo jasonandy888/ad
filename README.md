@@ -7,14 +7,15 @@
 - **原始条目数**：5076
 - **去重后域名数**：3999
 - **重复条目数**：1077
-- **最后更新**：2026-04-20 00:26:00（北京时间）
+- **最后更新**：2026-04-20 05:23:15（北京时间）
 
 ## 路由表文件（CIDR 格式）
 
-- **IPv4 中国全量:**`https://raw.githubusercontent.com/jasonandy888/ad/main/xiaosizi.txt`
-- **IPv6 中国全量:**`https://raw.githubusercontent.com/jasonandy888/ad/main/xiaosizi_ipv6.txt`
+- **IPv4 中国全量:** `https://raw.githubusercontent.com/jasonandy888/ad/main/xiaosizi.txt`
+- **IPv6 中国全量:** `https://raw.githubusercontent.com/jasonandy888/ad/main/xiaosizi_ipv6.txt`
 - **最后更新时间:** {{TIMESTAMP}}
-### 📈 总体统计"
+
+### 📈 总体统计
 - **IPv4 合并去重后总数:** {{xiaosizi_count}}
 - **IPv6 合并去重后总数:** {{xiaosizi6_count}}
 
