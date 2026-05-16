@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-05-16 01:18:37（北京时间）                 #
+#Version: 2026-05-17 00:42:12（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 14111                                                #
+#Total count: 14132                                                #
 ##############################################################################
 ||.51yes.com^
 ||.tanx.com^
@@ -2012,6 +2012,7 @@
 ||ad-ggtg-kuaishou-api.37.com.cn^
 ||ad-lele-q3gx.youxinhuyu.cn^
 ||ad-locus.com^
+||ad-logs.seeyouyima.com^
 ||ad-ocpx.zhltech.net^
 ||ad-open2.fancydsp.com^
 ||ad-pool.shiyuegame.com^
@@ -2082,6 +2083,7 @@
 ||ad.qq.com^
 ||ad.rednet.cn^
 ||ad.richmob.cn^
+||ad.seeyouyima.com^
 ||ad.shenshiads.com^
 ||ad.shunchangzhixing.com^
 ||ad.sitemaji.com^
@@ -2254,6 +2256,7 @@
 ||ads.huantest.com^
 ||ads.icloseli.cn^
 ||ads.inmobi.com^
+||ads.ishansong.com^
 ||ads.juicyads.me^
 ||ads.linkedin.com^
 ||ads.mdotm.com^
@@ -2355,6 +2358,7 @@
 ||adtech.pdd.link.hmgreat.com^
 ||adtech.yahooinc.com^
 ||adtrack.e.kuaishou.com^
+||adtrack.qianwen.com^
 ||adtrack.quark.cn^
 ||adtracker.adfunlink.com^
 ||adtracker.medproad.com^
@@ -2988,6 +2992,7 @@
 ||apponline.research.qq.com^
 ||appoptimize-drcn.dbankcdn.cn^
 ||apps.bdimg.com^
+||appserverlisttx.dflcs.cn^
 ||appstore-download.hismarttv.com^
 ||appsupport.qq.com^
 ||apptg.zhonglianhuashu.com^
@@ -5715,6 +5720,8 @@
 ||gb63755.cdn.11286381.com^
 ||gb686.cn^
 ||gbfe.top^
+||gbfek.dfcfw.com^
+||gbfek.dfcfw.com.eo.dnse1.com^
 ||gbmshvac.gree.com^
 ||gbnmd.dcoiwmnbfg.com^
 ||gbrh.yide.com^
@@ -6350,6 +6357,7 @@
 ||httpdns.yunxindns.com^
 ||httpdns.zybang.com^
 ||httpdns1.cc.cdnhwc5.com^
+||httpdns5.eastmoney.com^
 ||httpdnsmultiapi.meituan.com^
 ||httpdnsmultiapivip.meituan.com^
 ||httpsdns.baidu.com^
@@ -6957,7 +6965,6 @@
 ||isa.house365.com^
 ||isaas5-normal-lq.ecombdapi.com^
 ||isdk-gameunion-cn.heytapmobi.com^
-||ishansong.com^
 ||isjwmyvv.cloud.sqpd.opendun.com^
 ||isp-map.xunyou.mobi^
 ||isp-report.gifshow.com^
@@ -8104,7 +8111,6 @@
 ||m.cocounion.com^
 ||m.cqbaitong.cn^
 ||m.darryring.com^
-||m.dcdapp.com^
 ||m.egdlly.com^
 ||m.ever-lohas.com^
 ||m.exj6a9vu.com^
@@ -8166,6 +8172,7 @@
 ||m.zhuashouji.com^
 ||m0fanxing.kugou.com^
 ||m0kb.yide.com^
+||m1.ad.10010.com^
 ||m1.dx1200.com^
 ||m1.xcy8.com^
 ||m1570.oadz.com^
@@ -8404,6 +8411,7 @@
 ||minigame5-normal-lf.zijieapi.com^
 ||minih5.jiayans.net^
 ||miniproduct.doutuimao.net^
+||miniprogram.ishansong.com^
 ||minisite.acs86.com^
 ||minisite.kuaibo.com^
 ||minisite.letv.com^
@@ -8652,6 +8660,7 @@
 ||myasmilian77.s3-accelerate.amazonaws.com^
 ||mycard.baoheng.ink^
 ||mycard.qx10086.net^
+||myfavor.eastmoney.com^
 ||myip.ipip.net^
 ||myjpai.cn^
 ||myk1.6t.com^
@@ -9003,6 +9012,7 @@
 ||onekey2.cmpassport.com^
 ||onepass.geetest.com^
 ||onepic.s-qec.com^
+||oneseeker.top^
 ||onethingpcs.com^
 ||onglinhhhh.nmgdfwl.com^
 ||onglinhhhh.nmgdfwl.com.w.kunlunpi.com^
@@ -9395,7 +9405,9 @@
 ||pi2k.hikedj.com^
 ||pi920.com^
 ||piaoreng.cn^
+||pic-ad-ld.tupian1234.com^
 ||pic-appstore.hismarttv.com^
+||pic-ybb.seeyouyima.com^
 ||pic.14bobo.com^
 ||pic.3gbizhi.com^
 ||pic.5211game.com^
@@ -10881,6 +10893,8 @@
 ||sso-cas.gridsumdissector.com^
 ||sso.foxitreader.cn^
 ||ssp-sdk-config.uc.cn^
+||ssp-svr.1rtb.com^
+||ssp.1rtb.com^
 ||ssp.2345.com^
 ||ssp.cloooud.com^
 ||ssp.iytcdn.com^
@@ -11141,6 +11155,7 @@
 ||svnb9tkh.beinarun.com^
 ||sw0k.011.com^
 ||swa.gtimg.com^
+||swdlcdn.eastmoney.com^
 ||sweb.junshankeji.com^
 ||swih.3280.com^
 ||sws.junshankeji.com^
@@ -11350,6 +11365,7 @@
 ||tencent.xzbdnk.com^
 ||tenmax-static.cacafly.net^
 ||tepoch.finzfin.com^
+||tequan.seeyouyima.com^
 ||termvb.xyz^
 ||terren.cntv.cn^
 ||test-pk-fk.trafficmanager.net^
@@ -11766,6 +11782,7 @@
 ||tz.lhzly.com^
 ||tz.sec.xiaomi.com^
 ||tz.wlfx8.cn^
+||tz3.iflvopx.net^
 ||tz301.50868571.top^
 ||tzcdn-0905.qglfldr.cn^
 ||tzkaiywqphry-qjfsw-1327099954.ap-northeast-1.elb.amazonaws.com^
@@ -12129,6 +12146,7 @@
 ||v6-b1.toutiaovod.com^
 ||v6.h5axynet.edgesuite.net^
 ||v62199.com^
+||v66-ad.ndcjl.com^
 ||v69h.koreacentral.cloudapp.azure.com^
 ||v69media.miqi123.com^
 ||v7777.cdn.anti8.net^
@@ -12161,6 +12179,7 @@
 ||vc-mirror.ndcpp.com^
 ||vc-mirror.snssdk.com^
 ||vcctg.shop^
+||vch.video.qq.com^
 ||vcheck.f.360.cn^
 ||vchu6ezf.awskky.com^
 ||vcl-brain.ndcpp.com^
@@ -13074,6 +13093,7 @@
 ||www.p8akfg5r9.com^
 ||www.p9d9x.shop^
 ||www.p9ilp5.vip^
+||www.pangolin-dsp-toutiao-b.com^
 ||www.pangolin-dsp-toutiao.com^
 ||www.pgq7aa.vip^
 ||www.pgtu5l.site^
@@ -13303,6 +13323,7 @@
 ||x.hd13.cn^
 ||x.infzm.com^
 ||x.jd.com^
+||x.seeyouyima.com^
 ||x.sf.cn^
 ||x012.hikedj.com^
 ||x0uy.yide.com^

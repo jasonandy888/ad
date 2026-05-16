@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-05-16 01:18:37（北京时间）                 #
+#Version: 2026-05-17 00:42:12（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 14111                                                #
+#Total count: 14132                                                #
 ##############################################################################
 0.0.0.0 .51yes.com
 0.0.0.0 .tanx.com
@@ -2012,6 +2012,7 @@
 0.0.0.0 ad-ggtg-kuaishou-api.37.com.cn
 0.0.0.0 ad-lele-q3gx.youxinhuyu.cn
 0.0.0.0 ad-locus.com
+0.0.0.0 ad-logs.seeyouyima.com
 0.0.0.0 ad-ocpx.zhltech.net
 0.0.0.0 ad-open2.fancydsp.com
 0.0.0.0 ad-pool.shiyuegame.com
@@ -2082,6 +2083,7 @@
 0.0.0.0 ad.qq.com
 0.0.0.0 ad.rednet.cn
 0.0.0.0 ad.richmob.cn
+0.0.0.0 ad.seeyouyima.com
 0.0.0.0 ad.shenshiads.com
 0.0.0.0 ad.shunchangzhixing.com
 0.0.0.0 ad.sitemaji.com
@@ -2254,6 +2256,7 @@
 0.0.0.0 ads.huantest.com
 0.0.0.0 ads.icloseli.cn
 0.0.0.0 ads.inmobi.com
+0.0.0.0 ads.ishansong.com
 0.0.0.0 ads.juicyads.me
 0.0.0.0 ads.linkedin.com
 0.0.0.0 ads.mdotm.com
@@ -2355,6 +2358,7 @@
 0.0.0.0 adtech.pdd.link.hmgreat.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtrack.e.kuaishou.com
+0.0.0.0 adtrack.qianwen.com
 0.0.0.0 adtrack.quark.cn
 0.0.0.0 adtracker.adfunlink.com
 0.0.0.0 adtracker.medproad.com
@@ -2988,6 +2992,7 @@
 0.0.0.0 apponline.research.qq.com
 0.0.0.0 appoptimize-drcn.dbankcdn.cn
 0.0.0.0 apps.bdimg.com
+0.0.0.0 appserverlisttx.dflcs.cn
 0.0.0.0 appstore-download.hismarttv.com
 0.0.0.0 appsupport.qq.com
 0.0.0.0 apptg.zhonglianhuashu.com
@@ -5715,6 +5720,8 @@
 0.0.0.0 gb63755.cdn.11286381.com
 0.0.0.0 gb686.cn
 0.0.0.0 gbfe.top
+0.0.0.0 gbfek.dfcfw.com
+0.0.0.0 gbfek.dfcfw.com.eo.dnse1.com
 0.0.0.0 gbmshvac.gree.com
 0.0.0.0 gbnmd.dcoiwmnbfg.com
 0.0.0.0 gbrh.yide.com
@@ -6350,6 +6357,7 @@
 0.0.0.0 httpdns.yunxindns.com
 0.0.0.0 httpdns.zybang.com
 0.0.0.0 httpdns1.cc.cdnhwc5.com
+0.0.0.0 httpdns5.eastmoney.com
 0.0.0.0 httpdnsmultiapi.meituan.com
 0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpsdns.baidu.com
@@ -6957,7 +6965,6 @@
 0.0.0.0 isa.house365.com
 0.0.0.0 isaas5-normal-lq.ecombdapi.com
 0.0.0.0 isdk-gameunion-cn.heytapmobi.com
-0.0.0.0 ishansong.com
 0.0.0.0 isjwmyvv.cloud.sqpd.opendun.com
 0.0.0.0 isp-map.xunyou.mobi
 0.0.0.0 isp-report.gifshow.com
@@ -8104,7 +8111,6 @@
 0.0.0.0 m.cocounion.com
 0.0.0.0 m.cqbaitong.cn
 0.0.0.0 m.darryring.com
-0.0.0.0 m.dcdapp.com
 0.0.0.0 m.egdlly.com
 0.0.0.0 m.ever-lohas.com
 0.0.0.0 m.exj6a9vu.com
@@ -8166,6 +8172,7 @@
 0.0.0.0 m.zhuashouji.com
 0.0.0.0 m0fanxing.kugou.com
 0.0.0.0 m0kb.yide.com
+0.0.0.0 m1.ad.10010.com
 0.0.0.0 m1.dx1200.com
 0.0.0.0 m1.xcy8.com
 0.0.0.0 m1570.oadz.com
@@ -8404,6 +8411,7 @@
 0.0.0.0 minigame5-normal-lf.zijieapi.com
 0.0.0.0 minih5.jiayans.net
 0.0.0.0 miniproduct.doutuimao.net
+0.0.0.0 miniprogram.ishansong.com
 0.0.0.0 minisite.acs86.com
 0.0.0.0 minisite.kuaibo.com
 0.0.0.0 minisite.letv.com
@@ -8652,6 +8660,7 @@
 0.0.0.0 myasmilian77.s3-accelerate.amazonaws.com
 0.0.0.0 mycard.baoheng.ink
 0.0.0.0 mycard.qx10086.net
+0.0.0.0 myfavor.eastmoney.com
 0.0.0.0 myip.ipip.net
 0.0.0.0 myjpai.cn
 0.0.0.0 myk1.6t.com
@@ -9003,6 +9012,7 @@
 0.0.0.0 onekey2.cmpassport.com
 0.0.0.0 onepass.geetest.com
 0.0.0.0 onepic.s-qec.com
+0.0.0.0 oneseeker.top
 0.0.0.0 onethingpcs.com
 0.0.0.0 onglinhhhh.nmgdfwl.com
 0.0.0.0 onglinhhhh.nmgdfwl.com.w.kunlunpi.com
@@ -9395,7 +9405,9 @@
 0.0.0.0 pi2k.hikedj.com
 0.0.0.0 pi920.com
 0.0.0.0 piaoreng.cn
+0.0.0.0 pic-ad-ld.tupian1234.com
 0.0.0.0 pic-appstore.hismarttv.com
+0.0.0.0 pic-ybb.seeyouyima.com
 0.0.0.0 pic.14bobo.com
 0.0.0.0 pic.3gbizhi.com
 0.0.0.0 pic.5211game.com
@@ -10881,6 +10893,8 @@
 0.0.0.0 sso-cas.gridsumdissector.com
 0.0.0.0 sso.foxitreader.cn
 0.0.0.0 ssp-sdk-config.uc.cn
+0.0.0.0 ssp-svr.1rtb.com
+0.0.0.0 ssp.1rtb.com
 0.0.0.0 ssp.2345.com
 0.0.0.0 ssp.cloooud.com
 0.0.0.0 ssp.iytcdn.com
@@ -11141,6 +11155,7 @@
 0.0.0.0 svnb9tkh.beinarun.com
 0.0.0.0 sw0k.011.com
 0.0.0.0 swa.gtimg.com
+0.0.0.0 swdlcdn.eastmoney.com
 0.0.0.0 sweb.junshankeji.com
 0.0.0.0 swih.3280.com
 0.0.0.0 sws.junshankeji.com
@@ -11350,6 +11365,7 @@
 0.0.0.0 tencent.xzbdnk.com
 0.0.0.0 tenmax-static.cacafly.net
 0.0.0.0 tepoch.finzfin.com
+0.0.0.0 tequan.seeyouyima.com
 0.0.0.0 termvb.xyz
 0.0.0.0 terren.cntv.cn
 0.0.0.0 test-pk-fk.trafficmanager.net
@@ -11766,6 +11782,7 @@
 0.0.0.0 tz.lhzly.com
 0.0.0.0 tz.sec.xiaomi.com
 0.0.0.0 tz.wlfx8.cn
+0.0.0.0 tz3.iflvopx.net
 0.0.0.0 tz301.50868571.top
 0.0.0.0 tzcdn-0905.qglfldr.cn
 0.0.0.0 tzkaiywqphry-qjfsw-1327099954.ap-northeast-1.elb.amazonaws.com
@@ -12129,6 +12146,7 @@
 0.0.0.0 v6-b1.toutiaovod.com
 0.0.0.0 v6.h5axynet.edgesuite.net
 0.0.0.0 v62199.com
+0.0.0.0 v66-ad.ndcjl.com
 0.0.0.0 v69h.koreacentral.cloudapp.azure.com
 0.0.0.0 v69media.miqi123.com
 0.0.0.0 v7777.cdn.anti8.net
@@ -12161,6 +12179,7 @@
 0.0.0.0 vc-mirror.ndcpp.com
 0.0.0.0 vc-mirror.snssdk.com
 0.0.0.0 vcctg.shop
+0.0.0.0 vch.video.qq.com
 0.0.0.0 vcheck.f.360.cn
 0.0.0.0 vchu6ezf.awskky.com
 0.0.0.0 vcl-brain.ndcpp.com
@@ -13074,6 +13093,7 @@
 0.0.0.0 www.p8akfg5r9.com
 0.0.0.0 www.p9d9x.shop
 0.0.0.0 www.p9ilp5.vip
+0.0.0.0 www.pangolin-dsp-toutiao-b.com
 0.0.0.0 www.pangolin-dsp-toutiao.com
 0.0.0.0 www.pgq7aa.vip
 0.0.0.0 www.pgtu5l.site
@@ -13303,6 +13323,7 @@
 0.0.0.0 x.hd13.cn
 0.0.0.0 x.infzm.com
 0.0.0.0 x.jd.com
+0.0.0.0 x.seeyouyima.com
 0.0.0.0 x.sf.cn
 0.0.0.0 x012.hikedj.com
 0.0.0.0 x0uy.yide.com
