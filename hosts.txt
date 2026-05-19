@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-05-19 01:50:18（北京时间）                 #
+#Version: 2026-05-20 01:55:00（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 14132                                                #
+#Total count: 14152                                                #
 ##############################################################################
 0.0.0.0 .51yes.com
 0.0.0.0 .tanx.com
@@ -28,6 +28,7 @@
 0.0.0.0 016871x.cc
 0.0.0.0 017162.com
 0.0.0.0 01831164.com
+0.0.0.0 022.yp6696.top
 0.0.0.0 0234408.cn
 0.0.0.0 02893296.com
 0.0.0.0 03.1x01.cc
@@ -2575,6 +2576,7 @@
 0.0.0.0 alogus.umeng.com
 0.0.0.0 aloha.wang
 0.0.0.0 als.baidu.com
+0.0.0.0 alsc-ug-monitor-callback.alibaba.com
 0.0.0.0 alt8-mtalk.google.com
 0.0.0.0 aly282.thyx2009.com
 0.0.0.0 am.zdnet.com.cn
@@ -2583,6 +2585,7 @@
 0.0.0.0 amazon-ads.amazonads.cn
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amdcopen.m.taobao.com
+0.0.0.0 amdcopen.m.umeng.com
 0.0.0.0 amfu2.siyutui.com
 0.0.0.0 amjs.hccoeutg.com
 0.0.0.0 amjs.xylhwdu.com
@@ -2646,6 +2649,7 @@
 0.0.0.0 anwang.ntd4j0b1.top
 0.0.0.0 any0512.sdloptez.com
 0.0.0.0 anyihua.msxf.com
+0.0.0.0 anythinktech.com
 0.0.0.0 ao6men56yong26.jianai02.com
 0.0.0.0 aodongjiaosu.com
 0.0.0.0 aos.gw.youmi.net
@@ -3328,6 +3332,7 @@
 0.0.0.0 bi72.7790.com
 0.0.0.0 bianxian.com
 0.0.0.0 bics.8890.com
+0.0.0.0 bid-adx2.vlion.cn
 0.0.0.0 bid.adview.cn
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bieming8gg9.com
@@ -4639,11 +4644,13 @@
 0.0.0.0 ddos-3f992a7e3c604d3d8eef1b4da9aa8c28.svipgulr.com
 0.0.0.0 ddqe4opczpx3m.cloudfront.net
 0.0.0.0 ddqqbb1004lxtx.dmjfk.com
+0.0.0.0 de.ad.gameley.com
 0.0.0.0 de.as.pptv.com
 0.0.0.0 de.tynt.com
 0.0.0.0 de88deggtp89.com
 0.0.0.0 deadw4fqou5uk.cloudfront.net
 0.0.0.0 deceer.com
+0.0.0.0 deeplink.umeng.com
 0.0.0.0 def.smartlifebr.com
 0.0.0.0 def.yhfi3.top
 0.0.0.0 defining.com
@@ -6234,6 +6241,7 @@
 0.0.0.0 hk932.cdn
 0.0.0.0 hkbzl.hk
 0.0.0.0 hkfile.gewuzhixiang.com
+0.0.0.0 hkg-pre.edge-cluster-hk-pre.com
 0.0.0.0 hkhfg.cn
 0.0.0.0 hkji.143.cc
 0.0.0.0 hkmqp.com
@@ -6362,6 +6370,7 @@
 0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpsdns.baidu.com
 0.0.0.0 htty157.com
+0.0.0.0 htxcds.2jh1l.com
 0.0.0.0 hu05.7790.com
 0.0.0.0 hua.com
 0.0.0.0 hua8889.top
@@ -7549,6 +7558,7 @@
 0.0.0.0 ksflskjdhfjds.com
 0.0.0.0 ksmobile.com
 0.0.0.0 kssj6668.gutkbsc.com
+0.0.0.0 kssj6668.hytrfjn.com
 0.0.0.0 kstj.baidu.com
 0.0.0.0 kswk.kol.top
 0.0.0.0 ksyungslb.com
@@ -7995,6 +8005,8 @@
 0.0.0.0 logs.baidu.com
 0.0.0.0 logs.game.qq.com
 0.0.0.0 logs.quickapi.net
+0.0.0.0 logs.yvgnky.cn
+0.0.0.0 logs1.xnyojd.cn
 0.0.0.0 logservice.hicloud.com
 0.0.0.0 logservice1.hicloud.com
 0.0.0.0 logstat.caixin.com
@@ -8051,6 +8063,7 @@
 0.0.0.0 lvwhw.moji.com
 0.0.0.0 lw3.gzwyys.com
 0.0.0.0 lw6.cn
+0.0.0.0 lwnlkj.com
 0.0.0.0 lwt940302.cn
 0.0.0.0 lwxlsj.wap.xsbiquge.com
 0.0.0.0 lwxy1.170o.com
@@ -8542,6 +8555,7 @@
 0.0.0.0 mp4ba.qucaigg.com
 0.0.0.0 mpadmin.browser.360.cn
 0.0.0.0 mpbs.djkcfln.cn
+0.0.0.0 mpcfg.fancydsp.com
 0.0.0.0 mpic.kszvmqo.cn
 0.0.0.0 mpj97.com
 0.0.0.0 mpnn.cn
@@ -8957,6 +8971,7 @@
 0.0.0.0 ocig060g.xyz
 0.0.0.0 ocpc-api.shinet.cn
 0.0.0.0 ocpx.adwangmai.com
+0.0.0.0 ocpx.ainiankj.com
 0.0.0.0 ocsapi1964.hydqef.com.w.cdngslb.com
 0.0.0.0 ocsp.crlocsp.cn
 0.0.0.0 ocwf.880.net
@@ -9396,6 +9411,7 @@
 0.0.0.0 pgsz.880.net
 0.0.0.0 pgv.m.xunlei.com
 0.0.0.0 ph.qucaigg.com
+0.0.0.0 ph2dw0.com
 0.0.0.0 phc7aps.gthrtrjh.cn
 0.0.0.0 phcjf.com
 0.0.0.0 phh0.7790.com
@@ -10292,6 +10308,7 @@
 0.0.0.0 s.think.cn.maysunmedia.com
 0.0.0.0 s.thsi.cn
 0.0.0.0 s.tk.cn
+0.0.0.0 s.tuia.cn
 0.0.0.0 s.tzqdr68.com
 0.0.0.0 s.ukeiae.com
 0.0.0.0 s.ukeide.com
@@ -11149,6 +11166,7 @@
 0.0.0.0 sv.bdstatic.com
 0.0.0.0 sv.liangziweixg.com
 0.0.0.0 svbtdkk1iu96d9gm.nxds66.com
+0.0.0.0 svip-cdn.com
 0.0.0.0 svip.gm527.com
 0.0.0.0 svip.wukong06.top
 0.0.0.0 svmpd640.com
@@ -12999,6 +13017,7 @@
 0.0.0.0 www.hvbvlm.vip
 0.0.0.0 www.hwqh.com.cn
 0.0.0.0 www.hxkba.com
+0.0.0.0 www.hzlockb.cn
 0.0.0.0 www.ilkwork.com
 0.0.0.0 www.imageoss.com
 0.0.0.0 www.imageoss.com.cdn.cloudflare.net
@@ -13719,6 +13738,7 @@
 0.0.0.0 yiche.hnzzff.club
 0.0.0.0 yijuxie.com
 0.0.0.0 yimc.880.net
+0.0.0.0 yinduyao.xyz
 0.0.0.0 yingdatuofu.com
 0.0.0.0 yingjiaxing.com
 0.0.0.0 yingzishuo.cn

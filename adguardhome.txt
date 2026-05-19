@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-05-19 01:50:18（北京时间）                 #
+#Version: 2026-05-20 01:55:00（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 14132                                                #
+#Total count: 14152                                                #
 ##############################################################################
 ||.51yes.com^
 ||.tanx.com^
@@ -28,6 +28,7 @@
 ||016871x.cc^
 ||017162.com^
 ||01831164.com^
+||022.yp6696.top^
 ||0234408.cn^
 ||02893296.com^
 ||03.1x01.cc^
@@ -2575,6 +2576,7 @@
 ||alogus.umeng.com^
 ||aloha.wang^
 ||als.baidu.com^
+||alsc-ug-monitor-callback.alibaba.com^
 ||alt8-mtalk.google.com^
 ||aly282.thyx2009.com^
 ||am.zdnet.com.cn^
@@ -2583,6 +2585,7 @@
 ||amazon-ads.amazonads.cn^
 ||amazon-adsystem.com^
 ||amdcopen.m.taobao.com^
+||amdcopen.m.umeng.com^
 ||amfu2.siyutui.com^
 ||amjs.hccoeutg.com^
 ||amjs.xylhwdu.com^
@@ -2646,6 +2649,7 @@
 ||anwang.ntd4j0b1.top^
 ||any0512.sdloptez.com^
 ||anyihua.msxf.com^
+||anythinktech.com^
 ||ao6men56yong26.jianai02.com^
 ||aodongjiaosu.com^
 ||aos.gw.youmi.net^
@@ -3328,6 +3332,7 @@
 ||bi72.7790.com^
 ||bianxian.com^
 ||bics.8890.com^
+||bid-adx2.vlion.cn^
 ||bid.adview.cn^
 ||bid.g.doubleclick.net^
 ||bieming8gg9.com^
@@ -4639,11 +4644,13 @@
 ||ddos-3f992a7e3c604d3d8eef1b4da9aa8c28.svipgulr.com^
 ||ddqe4opczpx3m.cloudfront.net^
 ||ddqqbb1004lxtx.dmjfk.com^
+||de.ad.gameley.com^
 ||de.as.pptv.com^
 ||de.tynt.com^
 ||de88deggtp89.com^
 ||deadw4fqou5uk.cloudfront.net^
 ||deceer.com^
+||deeplink.umeng.com^
 ||def.smartlifebr.com^
 ||def.yhfi3.top^
 ||defining.com^
@@ -6234,6 +6241,7 @@
 ||hk932.cdn^
 ||hkbzl.hk^
 ||hkfile.gewuzhixiang.com^
+||hkg-pre.edge-cluster-hk-pre.com^
 ||hkhfg.cn^
 ||hkji.143.cc^
 ||hkmqp.com^
@@ -6362,6 +6370,7 @@
 ||httpdnsmultiapivip.meituan.com^
 ||httpsdns.baidu.com^
 ||htty157.com^
+||htxcds.2jh1l.com^
 ||hu05.7790.com^
 ||hua.com^
 ||hua8889.top^
@@ -7549,6 +7558,7 @@
 ||ksflskjdhfjds.com^
 ||ksmobile.com^
 ||kssj6668.gutkbsc.com^
+||kssj6668.hytrfjn.com^
 ||kstj.baidu.com^
 ||kswk.kol.top^
 ||ksyungslb.com^
@@ -7995,6 +8005,8 @@
 ||logs.baidu.com^
 ||logs.game.qq.com^
 ||logs.quickapi.net^
+||logs.yvgnky.cn^
+||logs1.xnyojd.cn^
 ||logservice.hicloud.com^
 ||logservice1.hicloud.com^
 ||logstat.caixin.com^
@@ -8051,6 +8063,7 @@
 ||lvwhw.moji.com^
 ||lw3.gzwyys.com^
 ||lw6.cn^
+||lwnlkj.com^
 ||lwt940302.cn^
 ||lwxlsj.wap.xsbiquge.com^
 ||lwxy1.170o.com^
@@ -8542,6 +8555,7 @@
 ||mp4ba.qucaigg.com^
 ||mpadmin.browser.360.cn^
 ||mpbs.djkcfln.cn^
+||mpcfg.fancydsp.com^
 ||mpic.kszvmqo.cn^
 ||mpj97.com^
 ||mpnn.cn^
@@ -8957,6 +8971,7 @@
 ||ocig060g.xyz^
 ||ocpc-api.shinet.cn^
 ||ocpx.adwangmai.com^
+||ocpx.ainiankj.com^
 ||ocsapi1964.hydqef.com.w.cdngslb.com^
 ||ocsp.crlocsp.cn^
 ||ocwf.880.net^
@@ -9396,6 +9411,7 @@
 ||pgsz.880.net^
 ||pgv.m.xunlei.com^
 ||ph.qucaigg.com^
+||ph2dw0.com^
 ||phc7aps.gthrtrjh.cn^
 ||phcjf.com^
 ||phh0.7790.com^
@@ -10292,6 +10308,7 @@
 ||s.think.cn.maysunmedia.com^
 ||s.thsi.cn^
 ||s.tk.cn^
+||s.tuia.cn^
 ||s.tzqdr68.com^
 ||s.ukeiae.com^
 ||s.ukeide.com^
@@ -11149,6 +11166,7 @@
 ||sv.bdstatic.com^
 ||sv.liangziweixg.com^
 ||svbtdkk1iu96d9gm.nxds66.com^
+||svip-cdn.com^
 ||svip.gm527.com^
 ||svip.wukong06.top^
 ||svmpd640.com^
@@ -12999,6 +13017,7 @@
 ||www.hvbvlm.vip^
 ||www.hwqh.com.cn^
 ||www.hxkba.com^
+||www.hzlockb.cn^
 ||www.ilkwork.com^
 ||www.imageoss.com^
 ||www.imageoss.com.cdn.cloudflare.net^
@@ -13719,6 +13738,7 @@
 ||yiche.hnzzff.club^
 ||yijuxie.com^
 ||yimc.880.net^
+||yinduyao.xyz^
 ||yingdatuofu.com^
 ||yingjiaxing.com^
 ||yingzishuo.cn^
