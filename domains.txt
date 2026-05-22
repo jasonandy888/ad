@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-05-22 01:48:17（北京时间）                 #
+#Version: 2026-05-23 01:42:54（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 14152                                                #
+#Total count: 14164                                                #
 ##############################################################################
 .51yes.com
 .tanx.com
@@ -710,6 +710,7 @@
 3n4l.yide.com
 3n8ec.xyz
 3nrb5msd5d0.apay8.cc
+3oik18.514mep.cnt-rambogame-app.com
 3oto.k8.com
 3pg.6271428.cc
 3pg.app
@@ -4259,6 +4260,7 @@ cp.gs307.com
 cp.h5.coffeedak.cn
 cp.jiajv.net
 cpc-service-square.aiclk.com
+cpc-service-square.iggrowth.cn
 cpc.88rpg.net
 cpc.haohaowan8.com
 cpcn2.bensiea.com
@@ -6310,6 +6312,7 @@ hs.hzwxbz3.cn
 hsbcfts.com.cn
 hsbclifeservices.com.cn
 hscdn.dhsf.huiyuehz.com
+hscdn.flv.wxqcloud.qq.com
 hscu.ppos.com
 hshd.hsy20hd1.cc
 hshd.hsy20hd1.cc.c.vedcdnlb.com
@@ -6412,6 +6415,7 @@ hw-sh-pcdn-19.biliapi.net
 hw-sh-pcdn-29.biliapi.net
 hw-sh-pcdn-36.biliapi.net
 hw-sh-pcdn-93.biliapi.net
+hw.flv.wxqcloud.qq.com
 hw.pull.yximgs.com
 hw.wts999.com
 hw296.slytez.com
@@ -7327,6 +7331,7 @@ jwkli.wpyyz.com
 jwz.3conline.com
 jx.cdn.qhstatic.com
 jx15.sixteens.cn
+jxedtpartner.ksedt.com
 jxlog.istreamsche.com
 jxmofang31.cn
 jxpicture.b1k3q6.com
@@ -9643,6 +9648,7 @@ publish.ad.youth.cn
 pubsgppp.c1oudfront.com
 puez.880.net
 puffer.5.736681645.tc.gcloudgbs.com
+pull-m1.wxlivecdn.com
 pull-rtmp-l6-xg.ixigua.com
 pull-rtmp-l6.ixigua.com
 pull-stream3-live-ssl.a.88cdn.com
@@ -10139,6 +10145,7 @@ rhfgdh.210744.com
 rhmlmntx-gruimsvntc.cn-shanghai.fcapp.run
 rhwx.yxzb.tv
 richie2ee2e.de
+richmanrank.ksedt.com
 rigel.baidustatic.com
 rights-zan-api.youjian77.com
 rili.360os.com
@@ -11222,7 +11229,6 @@ szbdyd.com
 szcy12.anfairy.net
 sze8t.qzqgsewldxu.com
 szkm.6t.com
-szmmsns.qpic.cn
 szrk3.com
 szyxb181.xwtec.cn
 t-adx.52qumao.com
@@ -11380,6 +11386,7 @@ telemetry.sdk.inmobi.com
 telexrgram.cc
 tenant-assets.meiqiausercontent.com
 tencent-dtv.m.cn.miaozhen.com
+tencent-ssp.66mobi.com
 tencent.xzbdnk.com
 tenmax-static.cacafly.net
 tepoch.finzfin.com
@@ -12351,6 +12358,10 @@ vodlog.m1905.cn
 vodtkcache.p2p.haplat.net
 vog9.activitiesoahu.com
 voipfinderliveplay1.wxqcloud.qq.com
+voipfinderliveplaythirdtest.wxqcloud.qq.com
+voipfinderrdsliveplay.wxqcloud.qq.com
+voipfinderrdsliveplay1.wxqcloud.qq.com
+voipfinderrdsliveplay3.wxqcloud.qq.com
 vol.lflili.com
 volc-track-dsp.66mobi.com
 volc.bj.ad.track.66mobi.com
@@ -12754,6 +12765,7 @@ www.016666x.cc
 www.07fr5k.com
 www.08273.net
 www.0ghfxo.xyz
+www.0tx4yr.vip
 www.10086.cn.baidu.cdn.yiwk.com
 www.10wf.com
 www.10wfzhw.top

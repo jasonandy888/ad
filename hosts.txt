@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-05-22 01:48:17（北京时间）                 #
+#Version: 2026-05-23 01:42:54（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 14152                                                #
+#Total count: 14164                                                #
 ##############################################################################
 0.0.0.0 .51yes.com
 0.0.0.0 .tanx.com
@@ -710,6 +710,7 @@
 0.0.0.0 3n4l.yide.com
 0.0.0.0 3n8ec.xyz
 0.0.0.0 3nrb5msd5d0.apay8.cc
+0.0.0.0 3oik18.514mep.cnt-rambogame-app.com
 0.0.0.0 3oto.k8.com
 0.0.0.0 3pg.6271428.cc
 0.0.0.0 3pg.app
@@ -4259,6 +4260,7 @@
 0.0.0.0 cp.h5.coffeedak.cn
 0.0.0.0 cp.jiajv.net
 0.0.0.0 cpc-service-square.aiclk.com
+0.0.0.0 cpc-service-square.iggrowth.cn
 0.0.0.0 cpc.88rpg.net
 0.0.0.0 cpc.haohaowan8.com
 0.0.0.0 cpcn2.bensiea.com
@@ -6310,6 +6312,7 @@
 0.0.0.0 hsbcfts.com.cn
 0.0.0.0 hsbclifeservices.com.cn
 0.0.0.0 hscdn.dhsf.huiyuehz.com
+0.0.0.0 hscdn.flv.wxqcloud.qq.com
 0.0.0.0 hscu.ppos.com
 0.0.0.0 hshd.hsy20hd1.cc
 0.0.0.0 hshd.hsy20hd1.cc.c.vedcdnlb.com
@@ -6412,6 +6415,7 @@
 0.0.0.0 hw-sh-pcdn-29.biliapi.net
 0.0.0.0 hw-sh-pcdn-36.biliapi.net
 0.0.0.0 hw-sh-pcdn-93.biliapi.net
+0.0.0.0 hw.flv.wxqcloud.qq.com
 0.0.0.0 hw.pull.yximgs.com
 0.0.0.0 hw.wts999.com
 0.0.0.0 hw296.slytez.com
@@ -7327,6 +7331,7 @@
 0.0.0.0 jwz.3conline.com
 0.0.0.0 jx.cdn.qhstatic.com
 0.0.0.0 jx15.sixteens.cn
+0.0.0.0 jxedtpartner.ksedt.com
 0.0.0.0 jxlog.istreamsche.com
 0.0.0.0 jxmofang31.cn
 0.0.0.0 jxpicture.b1k3q6.com
@@ -9643,6 +9648,7 @@
 0.0.0.0 pubsgppp.c1oudfront.com
 0.0.0.0 puez.880.net
 0.0.0.0 puffer.5.736681645.tc.gcloudgbs.com
+0.0.0.0 pull-m1.wxlivecdn.com
 0.0.0.0 pull-rtmp-l6-xg.ixigua.com
 0.0.0.0 pull-rtmp-l6.ixigua.com
 0.0.0.0 pull-stream3-live-ssl.a.88cdn.com
@@ -10139,6 +10145,7 @@
 0.0.0.0 rhmlmntx-gruimsvntc.cn-shanghai.fcapp.run
 0.0.0.0 rhwx.yxzb.tv
 0.0.0.0 richie2ee2e.de
+0.0.0.0 richmanrank.ksedt.com
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 rights-zan-api.youjian77.com
 0.0.0.0 rili.360os.com
@@ -11222,7 +11229,6 @@
 0.0.0.0 szcy12.anfairy.net
 0.0.0.0 sze8t.qzqgsewldxu.com
 0.0.0.0 szkm.6t.com
-0.0.0.0 szmmsns.qpic.cn
 0.0.0.0 szrk3.com
 0.0.0.0 szyxb181.xwtec.cn
 0.0.0.0 t-adx.52qumao.com
@@ -11380,6 +11386,7 @@
 0.0.0.0 telexrgram.cc
 0.0.0.0 tenant-assets.meiqiausercontent.com
 0.0.0.0 tencent-dtv.m.cn.miaozhen.com
+0.0.0.0 tencent-ssp.66mobi.com
 0.0.0.0 tencent.xzbdnk.com
 0.0.0.0 tenmax-static.cacafly.net
 0.0.0.0 tepoch.finzfin.com
@@ -12351,6 +12358,10 @@
 0.0.0.0 vodtkcache.p2p.haplat.net
 0.0.0.0 vog9.activitiesoahu.com
 0.0.0.0 voipfinderliveplay1.wxqcloud.qq.com
+0.0.0.0 voipfinderliveplaythirdtest.wxqcloud.qq.com
+0.0.0.0 voipfinderrdsliveplay.wxqcloud.qq.com
+0.0.0.0 voipfinderrdsliveplay1.wxqcloud.qq.com
+0.0.0.0 voipfinderrdsliveplay3.wxqcloud.qq.com
 0.0.0.0 vol.lflili.com
 0.0.0.0 volc-track-dsp.66mobi.com
 0.0.0.0 volc.bj.ad.track.66mobi.com
@@ -12754,6 +12765,7 @@
 0.0.0.0 www.07fr5k.com
 0.0.0.0 www.08273.net
 0.0.0.0 www.0ghfxo.xyz
+0.0.0.0 www.0tx4yr.vip
 0.0.0.0 www.10086.cn.baidu.cdn.yiwk.com
 0.0.0.0 www.10wf.com
 0.0.0.0 www.10wfzhw.top
