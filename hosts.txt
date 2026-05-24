@@ -2,7 +2,7 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-05-24 00:45:20（北京时间）                 #
+#Version: 2026-05-25 00:48:42（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
 #Total count: 14164                                                #
 ##############################################################################
@@ -2328,6 +2328,7 @@
 0.0.0.0 adsfilebssdlbig.tx.kugou.com
 0.0.0.0 adsfileretry.service.kugou.com
 0.0.0.0 adsfs-sdkconfig.heytapimage.com
+0.0.0.0 adsfs.heytapimage.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adshare.toutiao.com
 0.0.0.0 adshow.58.com
@@ -4897,7 +4898,6 @@
 0.0.0.0 dqw9.8890.com
 0.0.0.0 dqwk.154.com
 0.0.0.0 dqzie.j8y2r7y1.work
-0.0.0.0 drcn-weather.cloud.huawei.com
 0.0.0.0 drehq640.com
 0.0.0.0 dressimage.img-cn-beijing.aliyuncs.com
 0.0.0.0 drfm.yl.vip
