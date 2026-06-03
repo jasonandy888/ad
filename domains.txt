@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-06-03 03:34:03（北京时间）                 #
+#Version: 2026-06-04 03:39:47（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 15123                                                #
+#Total count: 15160                                                #
 ##############################################################################
 .51yes.com
 .tanx.com
@@ -25,6 +25,7 @@
 0103fc.n6a1x8b4.com
 01112629.com
 0118.xn--oqqx70cygbl82g.net
+012j9.com
 01391.sx
 015874.com
 016450x.com
@@ -311,6 +312,7 @@
 188ad.215631851349.cc
 189i5s49r.com
 18b31ed0769dc5be622061f4.ks3-cn-beijing.ksyuncs.com
+18e5f9c4.july7cloud.net
 19-59-4-24126.vip
 19-59-dt-dgl.cc
 19.19pg0284.cc
@@ -332,6 +334,7 @@
 1cecn.icu
 1d1ebb6e.b8038.cc.cname.scname.com
 1dd6fafb6c5080d6d85b00fe4a4c26b0.rdt.tfogc.com
+1e3c3bfront.hl3s3bdvh.com
 1e3q.cl.app
 1e509173.4jaw736jzv5d.com
 1ecfb6e2.aliyunddos0158.com
@@ -397,6 +400,7 @@
 2026914328.qnqcdn.net
 2026cname.com
 2028.0304222.com
+2028.com
 2028126.com
 2028243.com
 2028345.com
@@ -676,6 +680,7 @@
 33slthiy.vip
 340398.co
 34436.pictures
+34478img.cdfjsl.com
 344a78img.a0008a.com
 34567.me
 34885.xyz
@@ -726,6 +731,7 @@
 3821.com
 3822.run
 386dh-api.nav-site.com
+3888.es
 38988zubo85735.com
 38ljkoi.xyz
 38umh.xxtdjfxeumgvgr.in
@@ -761,6 +767,7 @@
 3js95.com
 3kag.6t.com
 3leg.011.com
+3lqz7f.h.1114dns.com
 3m.mediav.com
 3mmg.ag8.com
 3n4l.yide.com
@@ -936,7 +943,6 @@
 504h13bbm1ehbx31qvxf.entsbio.com
 5078690667377.com
 5082402074754.com
-508c38f2.theedgeplus.com
 50989e.com
 50989l.com
 50989n.com
@@ -2060,6 +2066,8 @@ abtest.volceapplog.com
 abtest.z.qingting.fm
 abtestvm.bytedance.com
 abtfliping.top
+abvg78uero.coalmo.com
+abvg78uero.coalmo.com.cdngtm.com
 ac-gb.mgid.com
 ac.ac.d.xxpkg.com
 ac.laonanren.com
@@ -2666,6 +2674,7 @@ aliyuni.xyz
 alj1s9j1.com
 all-live.secutre2storeapple.zhenshi001.com
 all.aliyunddos0158.com
+all.apk.zzyqoen.com.a1.initff.com
 all.by6wtegf.fsghcpa.com.w.kunlunaq.com
 all.chue7w6.fsghcpa.com.w.kunlunaq.com
 all.eyhsy.cn.w.cdngslb.com
@@ -3660,6 +3669,7 @@ bt66.tv
 btebgl.xyz
 btlaunch.baidu.com
 btrace.yangshipin.cn
+btt8.me
 bttt.qucaigg.com
 btzt.uiuin.cn
 bu4i.k8.com
@@ -4704,7 +4714,6 @@ d21bx6i5pbupng.cloudfront.net
 d2249dwd5o11hs.cloudfront.net
 d22ili91qveuj6.cloudfront.net
 d22ws5782qsh2e.cloudfront.net
-d255f030.theedgeplus.com
 d26bc6043915ae43f095fe1184c91819.rdt.tfogc.com
 d26s.cyou
 d27pmiqz3rwofz.cloudfront.net
@@ -4780,6 +4789,7 @@ d6.sina.com.cn
 d60o7fh4h.cc
 d6883.com
 d7.sina.com.cn
+d7368772.u.fn03.vip
 d7368772.u.kanejwo.com
 d7a3fb6.com
 d7cibghdcxyvv.cloudfront.net
@@ -4998,6 +5008,7 @@ dkhge12vc8r7x.cloudfront.net
 dkhwyzv.com
 dkky3pjup1779.cloudfront.net
 dkqtg1368.com
+dkzleb6h.com
 dl-vip.bav.baidu.com
 dl-vip.pcfaster.baidu.co.th
 dl.2345.com
@@ -5026,6 +5037,7 @@ dld030421.ftxjlb.com
 dleggcc25.gxballen88.com
 dlg.io.mi.com
 dlied5sdk.myapp.com
+dlnskgug.com
 dload.qd.qingting.fm
 dlog-config.uu.cc
 dlogs.bwton.com
@@ -5089,6 +5101,7 @@ doll-public.huiyuewang.cn
 dolphin.deliver.ifeng.com
 dolphin.ftimg.net
 domain.aishengji.com
+domainsguardian.com
 domob.cn
 domob.com.cn
 domobcdn.com
@@ -5137,6 +5150,7 @@ download.dhzn.xyz.gccdn.net
 download.dhzn.xyz.klchemicals.net
 download.ew.changyan.com
 download.fzzbmr.top
+download.lancelvlu.com
 download.m.37.com
 download.nirmljn.com
 download.qidian.com
@@ -5994,7 +6008,6 @@ g8h.cn
 g94527c.cdn.jsydns04.com
 g94a980.cdn.nkuytzv.com
 g97a6fd.cdn.1xabc.com
-g9c7240.cdn.theedgeplus.com
 g9ev.143.cc
 g9hc4.cn
 g9si.6t.com
@@ -6063,6 +6076,7 @@ gateway.qschou.com
 gateway.shangbangzhuan.com
 gathers.gc.com.cn
 gaut.8890.com
+gb1cc0c.cdn.cdnjs8888.com
 gb33aa7.cdn.wangcdn.com
 gb63755.cdn.11286381.com
 gb686.cn
@@ -6094,7 +6108,6 @@ gclgu.cn
 gclick.cn
 gcloudsdk.com
 gcth.6t.com
-gd024df.cdn.theedgeplus.com
 gd5fe07.cdn.skr004.cc
 gd910d7.cdn.62842765.com
 gdcr3388.com
@@ -6239,6 +6252,8 @@ go.padsdel.com
 go.padstm.com
 go.stripchatgirls.com
 goblin.hupu.com
+gogobaidu1e3c3b-goa.gzrxjm.com
+gogodouyu1e3c3b-gob.servicefu.com
 good.ta80.com
 google-analytics.com
 googleads.g.doubleclick-cn.net
@@ -6276,6 +6291,7 @@ graph.facebook.com
 green.longdatafull.xyz
 grejskx.com
 gres.602.com
+greycdn.net
 greywolfcdn.net
 grgucpxexegr.ojfxn.cn
 grgucpxexegr.ojfxn.cn.ucnaming.net
@@ -6788,6 +6804,7 @@ hutaojie.com
 hv.code.tanwanyx.com
 hv277.kgaqwg739.com
 hvc5.154.com
+hvjfkws2.com
 hvm0.365111.com
 hvzx.6t.com
 hw-origin.pull.yximgs.com
@@ -7072,6 +7089,7 @@ imdns.hpplay.cn
 imeclient.openspeech.cnhgzs.uunat.com
 imeffkdword.openspeech.cn
 imetkl.openspeech.cn
+imff.aiyuhfd.com
 imff.lajjfnjclshf.com
 img-c.heytapimage.com
 img-dbzd.doubaozhidao.com
@@ -7465,6 +7483,8 @@ j6wn1i.top
 j8.game
 j8lk.011.com
 j8vip23.com
+j9bai.com
+j9zdl.com
 ja.gamersky.com
 ja01623jat.i96gpdf.top
 ja30806jat.wwwaa8.cn
@@ -8036,6 +8056,7 @@ kti.bigbos.top
 ktku2q-530-ppp.s3.ap-east-1.amazonaws.com
 ktllbb.com
 ktpbds.aratalife.com
+ktpbds.aratalife.com.download.ks-cdn.com
 ktpbds.crjxck.com
 ktx769.cc
 kty376.com
@@ -8982,6 +9003,7 @@ mkt.taofen8.com
 mktm.jd.com
 mktmain.daikuan.360.cn
 mkts.4399sy.com
+mkvn9i.com
 mkyh.edu.gzfeice.com
 ml2007.com
 ml2818.com
@@ -9227,6 +9249,7 @@ mycard.baoheng.ink
 mycard.qx10086.net
 myfavor.eastmoney.com
 myip.ipip.net
+myj966.com
 myjpai.cn
 myk1.6t.com
 mypphs.com
@@ -9244,6 +9267,7 @@ n.stcfile.com
 n0sc.6t.com
 n0yyblcv.cloud.model.opendun.com
 n0ze9.3d048e6h.com
+n1118.com
 n15x.us
 n23m.143.cc
 n2ey1mm3yk.cc
@@ -9410,6 +9434,7 @@ nmetrics.samsung.com
 nmoss.nqjlly.com
 nmwss1368.com
 nnccya.top
+nne5yzou.com
 nnhtf.cn
 nnp35.com
 nnw5.880.net
@@ -9878,6 +9903,7 @@ p6-tt-video-sprite-sign.byteimg.com
 p66-ad.adkwai.com
 p66-live.ndcjl.com
 p7f.cn
+p7lhgaze.com
 p8.qhimg.com
 p8.shnhyl.com.cn
 p8akfg5r9.com.361cyd.net
@@ -10598,6 +10624,7 @@ qwerty158.dongjing18.top
 qwi7.yl.ag
 qwv.nwbeif.cn
 qwxts08.rdpqnq.cn
+qx8t4d2o8hm7.cdnhhh.net
 qxuw.7790.com
 qy.znz888.com
 qy12319122.lagranmoon.xyz
@@ -10723,6 +10750,7 @@ report-stats.ad.jiguang.cn
 report-sy.adview.cn
 report-wa03.huanyuantech.com
 report.adview.cn
+report.appmetrica.yandex.net
 report.biying88.cn
 report.hicnhm.com
 report.mobile.kukuplay.com
@@ -10753,7 +10781,6 @@ res.ijunhai.com
 res.molelink.cn
 res.openinstall.com
 res.qiguoread.com
-res.servicewechat.com
 res.shryou.com
 res.tzcq.longget.com
 res.vmallres.com
@@ -11326,7 +11353,6 @@ service.jiagu.360.cn
 service.vmos.cn
 servicecut.meizu.com
 servicegetbook.net
-servicewechat.com
 sessions.bugsnag.com
 sestat.baidu.com
 set56.7pud.com
@@ -12136,6 +12162,7 @@ telexrgram.cc
 tenant-assets.meiqiausercontent.com
 tencent-dtv.m.cn.miaozhen.com
 tencent-ssp.66mobi.com
+tencent.tw898989.com
 tencent.xzbdnk.com
 tenekslu.com
 tenmax-static.cacafly.net
@@ -13031,7 +13058,6 @@ vda.m.youzu.com
 vdggfqijv.yuscoqucddtxhvln.top
 vdinfo.baofeng.com
 vdl.1191234.com
-vdn6.vzuu.com
 vdo.api.moji.com
 ve41.tz.app
 ve5fnmn8cx.80154444.cc
@@ -13194,6 +13220,7 @@ volctrack.com
 voowebpbssdl.kugou.com
 votea.1-278-xz-zeaycrfx.cc
 voul.by6.app
+vp5cwmvp.jpx7wynxk6.com
 vp9t.608.vip
 vpic.cms.qq.com
 vpie.net
@@ -13260,12 +13287,12 @@ vyk.admaster.com.cn
 vypfw.gyxbw.cn
 vz30.154.com
 vzxe2.com
+vzyk92c4.yhcdn-yd.com
 w-1330371813.cos.ap-hongkong.myqcloud.com
 w.3big.net
 w.amtess.cn
 w.banlaa.com
 w.efo.cc
-w.kunlunaq.com
 w.l.qq.com
 w.m.taobao.com
 w.r9n.cn
@@ -13660,6 +13687,7 @@ www.3jq.com
 www.3zwib1.vip
 www.4466032.com
 www.4466033.com
+www.4794ps.vip
 www.4dvh6e.vip
 www.4f34f4b.com
 www.4w09ji.com
@@ -13711,6 +13739,7 @@ www.77tl.com
 www.77tlbb.com
 www.78acvr.vip
 www.7906.com
+www.7mp475.vip
 www.8000742.com
 www.8336m.top
 www.8555wz3.vip
@@ -13799,6 +13828,7 @@ www.cmll721.xyz
 www.cnhan.com
 www.cooldede.com
 www.crna3o.cc
+www.crt1u5.vip
 www.cyxolva1368.top
 www.daduoduo.com
 www.daeblj.xyz
@@ -13872,6 +13902,7 @@ www.hb9663.com
 www.hbty116.com
 www.hbty309.com
 www.hbxzp.shop
+www.hep01.com
 www.hgty373.com
 www.hgty6638.com
 www.hj46c.xyz
@@ -13890,6 +13921,7 @@ www.hvbvlm.vip
 www.hwqh.com.cn
 www.hxkba.com
 www.hzlockb.cn
+www.ij935.com
 www.ilkwork.com
 www.imageoss.com
 www.imageoss.com.cdn.cloudflare.net
@@ -14934,6 +14966,7 @@ zbb.bbb.x-je.pics
 zbb.bbb.x6-6.pics
 zbb.bbb.xckj0623.com
 zbb.bbb.y8p4.pics
+zbfg79jn.super.svip-cdn.com
 zbgptdfwpt7.xyz
 zbocd.jmvvo.com
 zbyfa.fcfkqqi.com
@@ -14998,6 +15031,7 @@ zhu.zhuchaoo.com
 zhuanjistatic.kugou.com
 zhuanjistaticretry.kugou.com
 zhuoyixt.xyz
+zhuoyu2xin.cdn.dun555.com
 zhuoyuee.cdn.layundns.com
 zhuqinga.top
 zhuxiaobang.zlinkurl.cn
@@ -15028,6 +15062,7 @@ zlfhe8.cn
 zlink.toutiao.com
 zlink.ugsdk.cn
 zlkn30282.cc
+zlks7.vip
 zlvf.154.com
 zmbx.143.cc
 zmzzfdslkjkc111.com
@@ -15036,6 +15071,7 @@ zn4p.154.com
 zndsssp.dangbei.net
 znfkbi1lyxrm.poltech3.com
 znhwzima-cmcivoowkr.cn-shenzhen.fcapp.run
+znmgk8wb.chaowei-mycdn.com
 znsv.baidu.com
 zntg.10jqka.com.cn
 znvj.154.com
@@ -15046,6 +15082,7 @@ zonglanlan.cn
 zoovoaxu.route78asia.com
 zoovoaxu.route78asia.com.gccdn.net
 zosotc5pfq.smvbr.com
+zosotc5pfq.smvbr.com.wcdnga.com
 zox3ue.com
 zpafdv6yi.51coupon.xyz
 zpgac.aalyun.cn
