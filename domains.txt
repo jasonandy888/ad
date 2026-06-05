@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-06-05 02:06:07（北京时间）                 #
+#Version: 2026-06-06 01:44:26（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 15160                                                #
+#Total count: 15161                                                #
 ##############################################################################
 .51yes.com
 .tanx.com
@@ -865,6 +865,7 @@
 44t.my
 4509.7790.com
 450day.com
+45232kc.otwaahn.com
 4530opdegk.hywkz.xyz
 45507.com
 456jjh.cn
@@ -2664,6 +2665,7 @@ alicoccdncnc-xn.inter.71edge.com
 alicoccdnct-hd.inter.71edge.com
 alicoccdnct-xn.inter.71edge.com
 alimov2.a.yximgs.com
+alipa.mamnvbyiu5od.com
 aliqcmmov.a.etoote.com
 alirel.h5sys.cn
 alist.nn.ci
@@ -5874,7 +5876,6 @@ fuhuikang360.com
 fullstack.vip
 fun.91wwll.com
 fun.adx.admaster.com.cn
-functional.events.data.microsoft.com
 fund.10jqka.com.cn
 fund.xueqiu.comhgzs.uunat.com
 funimg.pddpic.com
@@ -7139,6 +7140,7 @@ img.easypass.cn
 img.en.chinahsdy.com
 img.fanuchdf.com
 img.fd7c.com
+img.ffzy888.com
 img.fopen3.com
 img.grwpoiujung.xyz
 img.gsxservice.com
@@ -8099,7 +8101,6 @@ kweuf6k.oseiwiweep.com
 kwflvcdn.000dn.com
 kwha6.xivgxulxgmpsfhwk.com
 kwji.880.net
-kwmdmmsp.hongtaitanghua.com
 kwofjwo.ssyymy.com
 kx82kdajlkjsdngjxaas.ldka6232.pictures
 kxdo.yl.ag
@@ -11766,7 +11767,6 @@ static.bcxgame.com
 static.bitmedianetwork.com
 static.bshare.cn
 static.byld2l.com
-static.cloudflareinsights.com
 static.criteo.net
 static.csbew.com
 static.dhsf.996box.com
@@ -14002,6 +14002,7 @@ www.nbiou065a.sbs
 www.ncmm993.com
 www.nduwfat640.top
 www.ninimeng.com
+www.nkmasxs.com
 www.nlm0up.vip
 www.nongsini.xyz
 www.nxevzsd954.vip

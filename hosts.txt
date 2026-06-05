@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-06-05 02:06:07（北京时间）                 #
+#Version: 2026-06-06 01:44:26（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 15160                                                #
+#Total count: 15161                                                #
 ##############################################################################
 0.0.0.0 .51yes.com
 0.0.0.0 .tanx.com
@@ -865,6 +865,7 @@
 0.0.0.0 44t.my
 0.0.0.0 4509.7790.com
 0.0.0.0 450day.com
+0.0.0.0 45232kc.otwaahn.com
 0.0.0.0 4530opdegk.hywkz.xyz
 0.0.0.0 45507.com
 0.0.0.0 456jjh.cn
@@ -2664,6 +2665,7 @@
 0.0.0.0 alicoccdnct-hd.inter.71edge.com
 0.0.0.0 alicoccdnct-xn.inter.71edge.com
 0.0.0.0 alimov2.a.yximgs.com
+0.0.0.0 alipa.mamnvbyiu5od.com
 0.0.0.0 aliqcmmov.a.etoote.com
 0.0.0.0 alirel.h5sys.cn
 0.0.0.0 alist.nn.ci
@@ -5874,7 +5876,6 @@
 0.0.0.0 fullstack.vip
 0.0.0.0 fun.91wwll.com
 0.0.0.0 fun.adx.admaster.com.cn
-0.0.0.0 functional.events.data.microsoft.com
 0.0.0.0 fund.10jqka.com.cn
 0.0.0.0 fund.xueqiu.comhgzs.uunat.com
 0.0.0.0 funimg.pddpic.com
@@ -7139,6 +7140,7 @@
 0.0.0.0 img.en.chinahsdy.com
 0.0.0.0 img.fanuchdf.com
 0.0.0.0 img.fd7c.com
+0.0.0.0 img.ffzy888.com
 0.0.0.0 img.fopen3.com
 0.0.0.0 img.grwpoiujung.xyz
 0.0.0.0 img.gsxservice.com
@@ -8099,7 +8101,6 @@
 0.0.0.0 kwflvcdn.000dn.com
 0.0.0.0 kwha6.xivgxulxgmpsfhwk.com
 0.0.0.0 kwji.880.net
-0.0.0.0 kwmdmmsp.hongtaitanghua.com
 0.0.0.0 kwofjwo.ssyymy.com
 0.0.0.0 kx82kdajlkjsdngjxaas.ldka6232.pictures
 0.0.0.0 kxdo.yl.ag
@@ -11766,7 +11767,6 @@
 0.0.0.0 static.bitmedianetwork.com
 0.0.0.0 static.bshare.cn
 0.0.0.0 static.byld2l.com
-0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static.csbew.com
 0.0.0.0 static.dhsf.996box.com
@@ -14002,6 +14002,7 @@
 0.0.0.0 www.ncmm993.com
 0.0.0.0 www.nduwfat640.top
 0.0.0.0 www.ninimeng.com
+0.0.0.0 www.nkmasxs.com
 0.0.0.0 www.nlm0up.vip
 0.0.0.0 www.nongsini.xyz
 0.0.0.0 www.nxevzsd954.vip
