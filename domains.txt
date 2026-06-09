@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-06-09 02:15:49（北京时间）                 #
+#Version: 2026-06-10 01:49:53（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 15161                                                #
+#Total count: 15160                                                #
 ##############################################################################
 .51yes.com
 .tanx.com
@@ -705,7 +705,6 @@
 35c.rfmali.com
 360.tingxi888.com
 360fenxi.mediav.com
-360kuai.com
 360mixup.com
 360tg.37.com
 361ct9.vip
