@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-06-19 02:19:18（北京时间）                 #
+#Version: 2026-06-20 01:45:52（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 15064                                                #
+#Total count: 15090                                                #
 ##############################################################################
 0.0.0.0 .51yes.com
 0.0.0.0 .tanx.com
@@ -119,6 +119,8 @@
 0.0.0.0 0q78.143.cc
 0.0.0.0 0qhr.880.net
 0.0.0.0 0sd5xois.ghvbvj.cn
+0.0.0.0 0sdf2.sfsf.y1-fwd.com
+0.0.0.0 0sdf2.sfsf.y1-fwd.com.a1.initxb.com
 0.0.0.0 0t6m.cn
 0.0.0.0 0tdl.83084.com
 0.0.0.0 0tpw.143.cc
@@ -1156,6 +1158,7 @@
 0.0.0.0 5a4r.011.com
 0.0.0.0 5aggzs8vci7.18268698.cc
 0.0.0.0 5b1be7c1.68848616.com
+0.0.0.0 5b2d.smk.3145cn.com
 0.0.0.0 5b3z.6t.com
 0.0.0.0 5d6f.xinfeng520.com
 0.0.0.0 5daz18ls.sched.vodtylego.tdnsvod1.cn
@@ -4234,6 +4237,7 @@
 0.0.0.0 cdn4-live-ssl.a.88cdn.com
 0.0.0.0 cdn4tc.nicelift.cn
 0.0.0.0 cdn60hub.gt62.top
+0.0.0.0 cdn8.iyvpw.com
 0.0.0.0 cdn9.dcloud.net.cn
 0.0.0.0 cdnan.51img5.com
 0.0.0.0 cdnapiif.1266ee.com
@@ -4866,6 +4870,7 @@
 0.0.0.0 d8qk.143.cc
 0.0.0.0 d9.sina.com.cn
 0.0.0.0 d95cbe9f.july7cloud.net
+0.0.0.0 d97op8vw5.ydzj2016.com
 0.0.0.0 d9836.com
 0.0.0.0 da.anythinktech.com
 0.0.0.0 da.mmarket.com
@@ -5552,6 +5557,7 @@
 0.0.0.0 epygl8ygit.wisdomcounty.com
 0.0.0.0 eq.10jqka.com.cn
 0.0.0.0 eq83.hikedj.com
+0.0.0.0 eqc4ks3h.atvtkf.com
 0.0.0.0 eqil.6t.com
 0.0.0.0 eqobb.appfx8.com
 0.0.0.0 er.dcloud.net.cn
@@ -5987,7 +5993,6 @@
 0.0.0.0 fyvwggcj.com
 0.0.0.0 fz.letv.com
 0.0.0.0 fz5k.ag8.com
-0.0.0.0 fzbbt.gat.zj.gov.cn
 0.0.0.0 fzz0.154.com
 0.0.0.0 g-adnet.dutils.com
 0.0.0.0 g-adnet.hiaiabc.com
@@ -6401,6 +6406,7 @@
 0.0.0.0 gslb-cn.cdo.heytapmobi.com
 0.0.0.0 gslb.cdo.oppomobile.com
 0.0.0.0 gslb.hpplay.cn
+0.0.0.0 gsoxx.vbtvaa.com
 0.0.0.0 gsp.cnzz.kld666.com
 0.0.0.0 gsp1.baidu.com
 0.0.0.0 gsuxh640.com
@@ -7455,6 +7461,7 @@
 0.0.0.0 injl.k8.com
 0.0.0.0 inlbsid.cn
 0.0.0.0 inmb.880.net
+0.0.0.0 innfg.3x1fo.com
 0.0.0.0 inputl2.xfinfr.com
 0.0.0.0 ins.pplive.com
 0.0.0.0 ins340.com
@@ -8680,6 +8687,7 @@
 0.0.0.0 logclient-xddq.hdnd01.com
 0.0.0.0 logconf.iflytek.com
 0.0.0.0 logd.api.moji.com
+0.0.0.0 logdn.vbtvaa.com
 0.0.0.0 logger.csslcloud.net
 0.0.0.0 logger.qingting.fm
 0.0.0.0 logger.treexml.baofeng.com
@@ -9138,6 +9146,7 @@
 0.0.0.0 migc.g.mi.com
 0.0.0.0 migcreport.g.mi.com
 0.0.0.0 mightiger.net
+0.0.0.0 miglljpt1luiv.entsbio.com
 0.0.0.0 miguvideo.cdbfb.net
 0.0.0.0 mikal.nttcname.com
 0.0.0.0 milan.ky
@@ -9421,6 +9430,8 @@
 0.0.0.0 mvdr23.xyz
 0.0.0.0 mvip.zhuba8.com
 0.0.0.0 mvktvm.cn
+0.0.0.0 mvn3ubv.xinpacker.com
+0.0.0.0 mvn3ubv.xinpacker.com.w.cdngslb.com
 0.0.0.0 mvo.h56h5r.xyz
 0.0.0.0 mvp.cgdeuvip.com
 0.0.0.0 mvp.mediav.com
@@ -9979,6 +9990,7 @@
 0.0.0.0 oyysbc.xyz
 0.0.0.0 oz8xhen.top
 0.0.0.0 ozcoa6hlr.com
+0.0.0.0 ozfvf.vbtvaa.com
 0.0.0.0 ozone.10jqka.com.cn
 0.0.0.0 ozzsr9ribnjvljmq.huabanwl.com
 0.0.0.0 p-api.topxlc.com
@@ -10335,6 +10347,7 @@
 0.0.0.0 pkpk.upkxkcq.cn
 0.0.0.0 pkvgbk.com
 0.0.0.0 pkvvkx95r.cfd
+0.0.0.0 pkxbz1368.com
 0.0.0.0 pkxnh5.cc
 0.0.0.0 pl.cp31.ott.cibntv.net
 0.0.0.0 pl.wangwanyun1.cn
@@ -11065,6 +11078,7 @@
 0.0.0.0 ricci-liu.com
 0.0.0.0 richie2ee2e.de
 0.0.0.0 richmanrank.ksedt.com
+0.0.0.0 ridmqo.vip
 0.0.0.0 rigel.baidustatic.com
 0.0.0.0 rights-zan-api.youjian77.com
 0.0.0.0 rili.360os.com
@@ -11165,6 +11179,7 @@
 0.0.0.0 rwtx.yide.com
 0.0.0.0 rwvk.jianghuledao.com
 0.0.0.0 rxcq.4366ga.com
+0.0.0.0 rxebh.czbjcy.com
 0.0.0.0 rxqx.720lu.com
 0.0.0.0 rxwi3bebbenvkq38zbyvrtynj0fu0lfj.top
 0.0.0.0 ry-j.com
@@ -12157,6 +12172,7 @@
 0.0.0.0 stwqhfi.cn
 0.0.0.0 stx79.com
 0.0.0.0 su.bdimg.com
+0.0.0.0 substrate.office.com
 0.0.0.0 sucai.52jianpan.com
 0.0.0.0 sucai.suoluomei.cn
 0.0.0.0 success.ctobsnssdk.com
@@ -12440,6 +12456,7 @@
 0.0.0.0 tencent.xzbdnk.com
 0.0.0.0 tenekslu.com
 0.0.0.0 tenmax-static.cacafly.net
+0.0.0.0 teoxn.vbtvaa.com
 0.0.0.0 tepoch.finzfin.com
 0.0.0.0 tequan.seeyouyima.com
 0.0.0.0 termvb.xyz
@@ -12657,6 +12674,7 @@
 0.0.0.0 tpnlgnfhkmebcklirqjyajjvphrwewqj.actlube.net
 0.0.0.0 tpnlgnfhkmebcklirqjyajjvphrwewqj.actlube.net.w.kunlunaq.com
 0.0.0.0 tps2025.cc
+0.0.0.0 tptpn.czbjcy.com
 0.0.0.0 tptptp111.com
 0.0.0.0 tpush.html5.qq.com
 0.0.0.0 tq07.yl.vip
@@ -12745,6 +12763,7 @@
 0.0.0.0 ts.ykkbwdf.cn
 0.0.0.0 ts3s.k8.com
 0.0.0.0 tsconfigserver-cdn.xiangtatech.com
+0.0.0.0 tse3v9my.11cname.cn
 0.0.0.0 tsearch-lq.snssdk.com
 0.0.0.0 tsearch.snssdk.com
 0.0.0.0 tsis.jpush.cn
@@ -13163,6 +13182,7 @@
 0.0.0.0 ut.gtags.net
 0.0.0.0 ut2.shuqistat.com
 0.0.0.0 utbcd.cn
+0.0.0.0 utfdw.lqlvjzx.com
 0.0.0.0 util.nphoto.net
 0.0.0.0 utoken.umeng.com
 0.0.0.0 utop.umengcloud.com
@@ -13529,6 +13549,7 @@
 0.0.0.0 vp9t.608.vip
 0.0.0.0 vpic.cms.qq.com
 0.0.0.0 vpie.net
+0.0.0.0 vpqmtqdhit.entsbio.com
 0.0.0.0 vpsvc.f0ywuwco7f.com
 0.0.0.0 vq1.biokd.net
 0.0.0.0 vqk14006.cc
@@ -14199,6 +14220,7 @@
 0.0.0.0 xcx.koolearn.com
 0.0.0.0 xd.code.tanwanyx.com
 0.0.0.0 xd888.u.jhydns03.com
+0.0.0.0 xdlsq74a4d0rskc.entsbio.com
 0.0.0.0 xdsj06.wxcqwl.com
 0.0.0.0 xdt.usqiryn.cn
 0.0.0.0 xed3d.cc
@@ -14388,6 +14410,7 @@
 0.0.0.0 xw2l.com
 0.0.0.0 xwfziuta.cc
 0.0.0.0 xwm5f.cc
+0.0.0.0 xwxug.gwwogjp.com
 0.0.0.0 xwzq02.xwdy.org.cn
 0.0.0.0 xx44.cc
 0.0.0.0 xx4848.jjcclt.com
@@ -14436,6 +14459,7 @@
 0.0.0.0 y2972.cc
 0.0.0.0 y2qn.yide.com
 0.0.0.0 y2wj8.cn
+0.0.0.0 y394j2dr.atvtkf.com
 0.0.0.0 y3fr.608.com
 0.0.0.0 y41.cn
 0.0.0.0 y4p2qg.vip
@@ -14884,6 +14908,7 @@
 0.0.0.0 zf.347-xz.com
 0.0.0.0 zfb.yahongkj.top
 0.0.0.0 zfibu-foce06z.50k6mhba-m56qv6u.top
+0.0.0.0 zfjai.cyiobdc.com
 0.0.0.0 zgbmw.com.cn
 0.0.0.0 zgd8.k8.com
 0.0.0.0 zgea886.com
@@ -15001,6 +15026,7 @@
 0.0.0.0 zt.gifshow.com
 0.0.0.0 zt64.6t.com
 0.0.0.0 zt7x.154.com
+0.0.0.0 zt8cwmx2.11cname.cn
 0.0.0.0 ztevents.zaloapp.com
 0.0.0.0 ztf.j9n1c8r6.work
 0.0.0.0 zth5.ztgame.com

@@ -2,9 +2,9 @@
 #Title: ad188                                                                #
 #Homepage: https://github.com/jasonandy888/ad                            #
 #Expires: 12 Hours                                                           #
-#Version: 2026-06-19 02:19:18（北京时间）                 #
+#Version: 2026-06-20 01:45:52（北京时间）                 #
 #Description: 适用于AdGuard的去广告规则，合并优质上游规则并去重整理排列      #
-#Total count: 15064                                                #
+#Total count: 15090                                                #
 ##############################################################################
 .51yes.com
 .tanx.com
@@ -119,6 +119,8 @@
 0q78.143.cc
 0qhr.880.net
 0sd5xois.ghvbvj.cn
+0sdf2.sfsf.y1-fwd.com
+0sdf2.sfsf.y1-fwd.com.a1.initxb.com
 0t6m.cn
 0tdl.83084.com
 0tpw.143.cc
@@ -1156,6 +1158,7 @@
 5a4r.011.com
 5aggzs8vci7.18268698.cc
 5b1be7c1.68848616.com
+5b2d.smk.3145cn.com
 5b3z.6t.com
 5d6f.xinfeng520.com
 5daz18ls.sched.vodtylego.tdnsvod1.cn
@@ -4234,6 +4237,7 @@ cdn32.007cdnb.cfd
 cdn4-live-ssl.a.88cdn.com
 cdn4tc.nicelift.cn
 cdn60hub.gt62.top
+cdn8.iyvpw.com
 cdn9.dcloud.net.cn
 cdnan.51img5.com
 cdnapiif.1266ee.com
@@ -4866,6 +4870,7 @@ d86g.608.vip
 d8qk.143.cc
 d9.sina.com.cn
 d95cbe9f.july7cloud.net
+d97op8vw5.ydzj2016.com
 d9836.com
 da.anythinktech.com
 da.mmarket.com
@@ -5552,6 +5557,7 @@ epro.sogou.com
 epygl8ygit.wisdomcounty.com
 eq.10jqka.com.cn
 eq83.hikedj.com
+eqc4ks3h.atvtkf.com
 eqil.6t.com
 eqobb.appfx8.com
 er.dcloud.net.cn
@@ -5987,7 +5993,6 @@ fyshvb.cn
 fyvwggcj.com
 fz.letv.com
 fz5k.ag8.com
-fzbbt.gat.zj.gov.cn
 fzz0.154.com
 g-adnet.dutils.com
 g-adnet.hiaiabc.com
@@ -6401,6 +6406,7 @@ gshf212hgsd217hjsg.com
 gslb-cn.cdo.heytapmobi.com
 gslb.cdo.oppomobile.com
 gslb.hpplay.cn
+gsoxx.vbtvaa.com
 gsp.cnzz.kld666.com
 gsp1.baidu.com
 gsuxh640.com
@@ -7455,6 +7461,7 @@ init.startappexchange.com
 injl.k8.com
 inlbsid.cn
 inmb.880.net
+innfg.3x1fo.com
 inputl2.xfinfr.com
 ins.pplive.com
 ins340.com
@@ -8680,6 +8687,7 @@ logbak.hicloud.com
 logclient-xddq.hdnd01.com
 logconf.iflytek.com
 logd.api.moji.com
+logdn.vbtvaa.com
 logger.csslcloud.net
 logger.qingting.fm
 logger.treexml.baofeng.com
@@ -9138,6 +9146,7 @@ mig.zzbabylon.com.wsdvs.com
 migc.g.mi.com
 migcreport.g.mi.com
 mightiger.net
+miglljpt1luiv.entsbio.com
 miguvideo.cdbfb.net
 mikal.nttcname.com
 milan.ky
@@ -9421,6 +9430,8 @@ mvads.kugou.com
 mvdr23.xyz
 mvip.zhuba8.com
 mvktvm.cn
+mvn3ubv.xinpacker.com
+mvn3ubv.xinpacker.com.w.cdngslb.com
 mvo.h56h5r.xyz
 mvp.cgdeuvip.com
 mvp.mediav.com
@@ -9979,6 +9990,7 @@ oyb3.xyz
 oyysbc.xyz
 oz8xhen.top
 ozcoa6hlr.com
+ozfvf.vbtvaa.com
 ozone.10jqka.com.cn
 ozzsr9ribnjvljmq.huabanwl.com
 p-api.topxlc.com
@@ -10335,6 +10347,7 @@ pkoplink.com
 pkpk.upkxkcq.cn
 pkvgbk.com
 pkvvkx95r.cfd
+pkxbz1368.com
 pkxnh5.cc
 pl.cp31.ott.cibntv.net
 pl.wangwanyun1.cn
@@ -11065,6 +11078,7 @@ rhwx.yxzb.tv
 ricci-liu.com
 richie2ee2e.de
 richmanrank.ksedt.com
+ridmqo.vip
 rigel.baidustatic.com
 rights-zan-api.youjian77.com
 rili.360os.com
@@ -11165,6 +11179,7 @@ rwq.youle55.com
 rwtx.yide.com
 rwvk.jianghuledao.com
 rxcq.4366ga.com
+rxebh.czbjcy.com
 rxqx.720lu.com
 rxwi3bebbenvkq38zbyvrtynj0fu0lfj.top
 ry-j.com
@@ -12157,6 +12172,7 @@ stunserver.stunprotocol.org
 stwqhfi.cn
 stx79.com
 su.bdimg.com
+substrate.office.com
 sucai.52jianpan.com
 sucai.suoluomei.cn
 success.ctobsnssdk.com
@@ -12440,6 +12456,7 @@ tencent.tw898989.com
 tencent.xzbdnk.com
 tenekslu.com
 tenmax-static.cacafly.net
+teoxn.vbtvaa.com
 tepoch.finzfin.com
 tequan.seeyouyima.com
 termvb.xyz
@@ -12657,6 +12674,7 @@ tpkjyj02.com
 tpnlgnfhkmebcklirqjyajjvphrwewqj.actlube.net
 tpnlgnfhkmebcklirqjyajjvphrwewqj.actlube.net.w.kunlunaq.com
 tps2025.cc
+tptpn.czbjcy.com
 tptptp111.com
 tpush.html5.qq.com
 tq07.yl.vip
@@ -12745,6 +12763,7 @@ ts.qq.com
 ts.ykkbwdf.cn
 ts3s.k8.com
 tsconfigserver-cdn.xiangtatech.com
+tse3v9my.11cname.cn
 tsearch-lq.snssdk.com
 tsearch.snssdk.com
 tsis.jpush.cn
@@ -13163,6 +13182,7 @@ uszr.720lu.com
 ut.gtags.net
 ut2.shuqistat.com
 utbcd.cn
+utfdw.lqlvjzx.com
 util.nphoto.net
 utoken.umeng.com
 utop.umengcloud.com
@@ -13529,6 +13549,7 @@ vp5cwmvp.jpx7wynxk6.com
 vp9t.608.vip
 vpic.cms.qq.com
 vpie.net
+vpqmtqdhit.entsbio.com
 vpsvc.f0ywuwco7f.com
 vq1.biokd.net
 vqk14006.cc
@@ -14199,6 +14220,7 @@ xcx.dcad01.com
 xcx.koolearn.com
 xd.code.tanwanyx.com
 xd888.u.jhydns03.com
+xdlsq74a4d0rskc.entsbio.com
 xdsj06.wxcqwl.com
 xdt.usqiryn.cn
 xed3d.cc
@@ -14388,6 +14410,7 @@ xvip.wodepay.com
 xw2l.com
 xwfziuta.cc
 xwm5f.cc
+xwxug.gwwogjp.com
 xwzq02.xwdy.org.cn
 xx44.cc
 xx4848.jjcclt.com
@@ -14436,6 +14459,7 @@ y25718211.vip
 y2972.cc
 y2qn.yide.com
 y2wj8.cn
+y394j2dr.atvtkf.com
 y3fr.608.com
 y41.cn
 y4p2qg.vip
@@ -14884,6 +14908,7 @@ zexun208.top
 zf.347-xz.com
 zfb.yahongkj.top
 zfibu-foce06z.50k6mhba-m56qv6u.top
+zfjai.cyiobdc.com
 zgbmw.com.cn
 zgd8.k8.com
 zgea886.com
@@ -15001,6 +15026,7 @@ zt.diyring.cc
 zt.gifshow.com
 zt64.6t.com
 zt7x.154.com
+zt8cwmx2.11cname.cn
 ztevents.zaloapp.com
 ztf.j9n1c8r6.work
 zth5.ztgame.com
